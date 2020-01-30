@@ -1,4 +1,4 @@
-# Idiomatic-Python3
+# Idiomatic Python3+
 
 This is a partial notes from "writing Idiomatic Python" Book By Jeff Knupp
 
